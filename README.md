@@ -1,6 +1,6 @@
-# YoloV8 Raspberry Pi 4/5
+# YoloV9 Raspberry Pi 4/5
 ![output image]( https://qengineering.eu/github/test_parkV9.webp )
-## YoloV8 with the ncnn framework. <br/>
+## YoloV9 with the ncnn framework. <br/>
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 Paper: https://arxiv.org/pdf/2402.13616.pdf<br/><br/>
 Special made for a bare Raspberry Pi 4, see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html)
